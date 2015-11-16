@@ -1,0 +1,2 @@
+bobi - 700
+BobiTest - 200
