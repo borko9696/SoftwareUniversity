@@ -1,0 +1,9 @@
+E:\SoftUni\Object-Oriented-Programming\Lab\November 2015 Lab – Football League\Football League\bin\Debug\Football League.exe.config
+E:\SoftUni\Object-Oriented-Programming\Lab\November 2015 Lab – Football League\Football League\bin\Debug\Football League.exe
+E:\SoftUni\Object-Oriented-Programming\Lab\November 2015 Lab – Football League\Football League\bin\Debug\Football League.pdb
+E:\SoftUni\Object-Oriented-Programming\Lab\November 2015 Lab – Football League\Football League\obj\Debug\Football League.csprojResolveAssemblyReference.cache
+E:\SoftUni\Object-Oriented-Programming\Lab\November 2015 Lab – Football League\Football League\obj\Debug\Football League.exe
+E:\SoftUni\Object-Oriented-Programming\Lab\November 2015 Lab – Football League\Football League\obj\Debug\Football League.pdb
+E:\SoftUni\Object-Oriented-Programming\Lab\November2015Lab_FootballLeague\Football League\bin\Debug\Football League.exe.config
+E:\SoftUni\Object-Oriented-Programming\Lab\November2015Lab_FootballLeague\Football League\obj\Debug\Football League.exe
+E:\SoftUni\Object-Oriented-Programming\Lab\November2015Lab_FootballLeague\Football League\obj\Debug\Football League.pdb
