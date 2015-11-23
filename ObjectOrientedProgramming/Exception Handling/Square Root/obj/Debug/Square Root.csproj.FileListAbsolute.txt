@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Square Root\bin\Debug\Square Root.exe.config
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Square Root\bin\Debug\Square Root.exe
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Square Root\bin\Debug\Square Root.pdb
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Square Root\obj\Debug\Square Root.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Square Root\obj\Debug\Square Root.exe
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Square Root\obj\Debug\Square Root.pdb

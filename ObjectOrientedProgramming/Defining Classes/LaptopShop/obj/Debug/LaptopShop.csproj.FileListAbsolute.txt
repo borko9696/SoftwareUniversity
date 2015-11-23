@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\LaptopShop\bin\Debug\LaptopShop.exe.config
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\LaptopShop\bin\Debug\LaptopShop.exe
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\LaptopShop\bin\Debug\LaptopShop.pdb
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\LaptopShop\obj\Debug\LaptopShop.exe
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\LaptopShop\obj\Debug\LaptopShop.pdb

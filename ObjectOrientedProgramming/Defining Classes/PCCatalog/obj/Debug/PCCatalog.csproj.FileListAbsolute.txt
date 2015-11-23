@@ -1,0 +1,6 @@
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\PCCatalog\bin\Debug\PCCatalog.exe.config
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\PCCatalog\bin\Debug\PCCatalog.exe
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\PCCatalog\bin\Debug\PCCatalog.pdb
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\PCCatalog\obj\Debug\PCCatalog.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\PCCatalog\obj\Debug\PCCatalog.exe
+C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\PCCatalog\obj\Debug\PCCatalog.pdb
