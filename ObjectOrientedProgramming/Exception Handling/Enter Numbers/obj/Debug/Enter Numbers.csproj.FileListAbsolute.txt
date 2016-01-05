@@ -1,6 +1,0 @@
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Enter Numbers\bin\Debug\Enter Numbers.exe.config
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Enter Numbers\obj\Debug\Enter Numbers.csprojResolveAssemblyReference.cache
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Enter Numbers\bin\Debug\Enter Numbers.exe
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Enter Numbers\bin\Debug\Enter Numbers.pdb
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Enter Numbers\obj\Debug\Enter Numbers.exe
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Exception Handling\Enter Numbers\obj\Debug\Enter Numbers.pdb

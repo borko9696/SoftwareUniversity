@@ -1,6 +1,0 @@
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\Person\bin\Debug\Person.exe.config
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\Person\bin\Debug\Person.exe
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\Person\bin\Debug\Person.pdb
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\Person\obj\Debug\Person.exe
-C:\Users\Borislav\Desktop\Bo\SoftUni\OOP-C#\Defining Classes\Person\obj\Debug\Person.pdb
