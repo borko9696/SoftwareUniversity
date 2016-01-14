@@ -1,0 +1,2 @@
+C:\Users\hp\Desktop\New folder\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
+C:\Users\hp\Desktop\SoftwareUniversity\High-quality Code\Naming Identifiers Homework\Orders\bin\Debug\Orders.exe.config
