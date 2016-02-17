@@ -1,0 +1,9 @@
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\bin\Debug\UniLoggerMain.exe
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\bin\Debug\UniLoggerMain.pdb
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\bin\Debug\UniLogger.dll
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\bin\Debug\UniLogger.pdb
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\obj\Debug\UniLoggerMain.csprojResolveAssemblyReference.cache
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\obj\Debug\UniLoggerMain.exe
+C:\Users\Borislav\Desktop\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\obj\Debug\UniLoggerMain.pdb
+C:\Users\Borko\Desktop\Bo\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\obj\Debug\UniLoggerMain.exe
+C:\Users\Borko\Desktop\Bo\HighQualityCode-master\17-SOLID-Principles-in-Software-Design-Homework\UniLogger\UniLoggerMain\obj\Debug\UniLoggerMain.pdb
