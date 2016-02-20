@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Command Interpreter\bin\Debug\02.Command Interpreter.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Command Interpreter\bin\Debug\02.Command Interpreter.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Command Interpreter\bin\Debug\02.Command Interpreter.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Command Interpreter\obj\Debug\02.Command Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Command Interpreter\obj\Debug\02.Command Interpreter.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Command Interpreter\obj\Debug\02.Command Interpreter.pdb

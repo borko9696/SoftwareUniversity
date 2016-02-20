@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Plus-Remove", "01.Plus-Remove\01.Plus-Remove.csproj", "{7C0F09F0-2A63-4A74-87FA-72C30C6E991C}"
 EndProject
@@ -30,6 +30,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SumOfAllValues", "13.SumOfAllValues\13.SumOfAllValues.csproj", "{E14A3C9C-CDCB-4299-8A4B-DF108BDD4A64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.MatrixShuffle", "14.MatrixShuffle\14.MatrixShuffle.csproj", "{B1527D27-633F-48C6-9D46-7E0DA207A913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Command Interpreter", "02.Command Interpreter\02.Command Interpreter.csproj", "{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{B1527D27-633F-48C6-9D46-7E0DA207A913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1527D27-633F-48C6-9D46-7E0DA207A913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1527D27-633F-48C6-9D46-7E0DA207A913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
