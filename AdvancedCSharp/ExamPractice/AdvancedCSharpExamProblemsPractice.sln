@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.MatrixShuffle", "14.Matr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Command Interpreter", "02.Command Interpreter\02.Command Interpreter.csproj", "{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Target Practice", "02.Target Practice\02.Target Practice.csproj", "{59252885-F820-436F-B4D0-0ED01816E07D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECF3BBF3-2908-482F-BBD6-6D3B4685A800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59252885-F820-436F-B4D0-0ED01816E07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59252885-F820-436F-B4D0-0ED01816E07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59252885-F820-436F-B4D0-0ED01816E07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59252885-F820-436F-B4D0-0ED01816E07D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

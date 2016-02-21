@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Target Practice\bin\Debug\02.Target Practice.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Target Practice\bin\Debug\02.Target Practice.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Target Practice\bin\Debug\02.Target Practice.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Target Practice\obj\Debug\02.Target Practice.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Target Practice\obj\Debug\02.Target Practice.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\02.Target Practice\obj\Debug\02.Target Practice.pdb
