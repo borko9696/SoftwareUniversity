@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\03.TextTransformer\bin\Debug\03.TextTransformer.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\03.TextTransformer\bin\Debug\03.TextTransformer.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\03.TextTransformer\bin\Debug\03.TextTransformer.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\03.TextTransformer\obj\Debug\03.TextTransformer.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\03.TextTransformer\obj\Debug\03.TextTransformer.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\03.TextTransformer\obj\Debug\03.TextTransformer.pdb
