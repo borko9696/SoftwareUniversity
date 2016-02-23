@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 3. Longest Subsequence\bin\Debug\Problem_3.Longest_Subsequence.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 3. Longest Subsequence\bin\Debug\Problem_3.Longest_Subsequence.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 3. Longest Subsequence\bin\Debug\Problem_3.Longest_Subsequence.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 3. Longest Subsequence\obj\Debug\Problem 3. Longest Subsequence.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 3. Longest Subsequence\obj\Debug\Problem_3.Longest_Subsequence.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 3. Longest Subsequence\obj\Debug\Problem_3.Longest_Subsequence.pdb

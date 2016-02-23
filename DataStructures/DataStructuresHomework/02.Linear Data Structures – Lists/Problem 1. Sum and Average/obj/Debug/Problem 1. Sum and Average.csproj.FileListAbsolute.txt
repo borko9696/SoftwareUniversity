@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 1. Sum and Average\bin\Debug\Problem_1.Sum_and_Average.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 1. Sum and Average\bin\Debug\Problem_1.Sum_and_Average.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 1. Sum and Average\bin\Debug\Problem_1.Sum_and_Average.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 1. Sum and Average\obj\Debug\Problem 1. Sum and Average.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 1. Sum and Average\obj\Debug\Problem_1.Sum_and_Average.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 1. Sum and Average\obj\Debug\Problem_1.Sum_and_Average.pdb

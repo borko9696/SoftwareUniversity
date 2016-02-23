@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 2. Sort Words\bin\Debug\Problem_2.Sort_Words.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 2. Sort Words\bin\Debug\Problem_2.Sort_Words.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 2. Sort Words\bin\Debug\Problem_2.Sort_Words.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 2. Sort Words\obj\Debug\Problem_2.Sort_Words.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 2. Sort Words\obj\Debug\Problem_2.Sort_Words.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 2. Sort Words\obj\Debug\Problem 2. Sort Words.csprojResolveAssemblyReference.cache

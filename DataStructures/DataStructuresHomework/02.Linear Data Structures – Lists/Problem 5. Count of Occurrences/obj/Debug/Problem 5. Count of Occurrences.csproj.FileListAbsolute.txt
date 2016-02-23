@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 5. Count of Occurrences\bin\Debug\Problem_5.Count_of_Occurrences.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 5. Count of Occurrences\bin\Debug\Problem_5.Count_of_Occurrences.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 5. Count of Occurrences\bin\Debug\Problem_5.Count_of_Occurrences.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 5. Count of Occurrences\obj\Debug\Problem_5.Count_of_Occurrences.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 5. Count of Occurrences\obj\Debug\Problem_5.Count_of_Occurrences.pdb

@@ -1,0 +1,1 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 7. Implement a LinkedListT\bin\Debug\LinkedList.exe.config

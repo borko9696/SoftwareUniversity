@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 4. Remove Odd Occurences\bin\Debug\Problem_4.Remove_Odd_Occurences.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 4. Remove Odd Occurences\bin\Debug\Problem_4.Remove_Odd_Occurences.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 4. Remove Odd Occurences\bin\Debug\Problem_4.Remove_Odd_Occurences.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 4. Remove Odd Occurences\obj\Debug\Problem_4.Remove_Odd_Occurences.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 4. Remove Odd Occurences\obj\Debug\Problem_4.Remove_Odd_Occurences.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Lists\Problem 4. Remove Odd Occurences\obj\Debug\Problem 4. Remove Odd Occurences.csprojResolveAssemblyReference.cache
