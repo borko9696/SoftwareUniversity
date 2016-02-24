@@ -1,0 +1,9 @@
+C:\Users\Borko\Desktop\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.dll
+C:\Users\Borko\Desktop\CircularQueue.Tests\bin\Debug\CircularQueue.Tests.pdb
+C:\Users\Borko\Desktop\CircularQueue.Tests\bin\Debug\CircularQueue.exe
+C:\Users\Borko\Desktop\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Borko\Desktop\CircularQueue.Tests\bin\Debug\CircularQueue.pdb
+C:\Users\Borko\Desktop\CircularQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Borko\Desktop\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.dll
+C:\Users\Borko\Desktop\CircularQueue.Tests\obj\Debug\CircularQueue.Tests.pdb

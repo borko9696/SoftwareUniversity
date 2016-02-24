@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\CircularQueue\bin\Debug\CircularQueue.exe
+C:\Users\Borko\Desktop\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\Users\Borko\Desktop\CircularQueue\obj\Debug\CircularQueue.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\CircularQueue\obj\Debug\CircularQueue.exe
+C:\Users\Borko\Desktop\CircularQueue\obj\Debug\CircularQueue.pdb
