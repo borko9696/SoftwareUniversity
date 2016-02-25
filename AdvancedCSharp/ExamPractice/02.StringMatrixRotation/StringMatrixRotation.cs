@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-
-namespace _02.StringMatrixRotation
+﻿namespace _02.StringMatrixRotation
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text.RegularExpressions;
+
     class StringMatrixRotation
     {
         static void Main(string[] args)

@@ -7,8 +7,8 @@
     <ProjectGuid>{50C72B64-ABEA-4444-AF69-A281971ECEFD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_04.OlympicsAreComing</RootNamespace>
-    <AssemblyName>04.OlympicsAreComing</AssemblyName>
+    <RootNamespace>_18.OlympicsAreComing</RootNamespace>
+    <AssemblyName>18.OlympicsAreComing</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

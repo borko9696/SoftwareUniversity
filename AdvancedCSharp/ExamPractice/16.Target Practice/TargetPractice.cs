@@ -1,4 +1,4 @@
-﻿namespace _02.Target_Practice
+﻿namespace _16.Target_Practice
 {
     using System;
     using System.Linq;
