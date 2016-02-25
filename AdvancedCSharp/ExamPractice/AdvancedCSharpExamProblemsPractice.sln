@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.OlympicsAreComing", "18.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.TextTransformer", "19.TextTransformer\19.TextTransformer.csproj", "{455B1504-D8CE-4B24-AF99-D4CD01E1BAC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Uppercase Words", "20.Uppercase Words\20.Uppercase Words.csproj", "{0F22F437-A53D-43D7-9FDD-DEA886FE1483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{455B1504-D8CE-4B24-AF99-D4CD01E1BAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{455B1504-D8CE-4B24-AF99-D4CD01E1BAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{455B1504-D8CE-4B24-AF99-D4CD01E1BAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F22F437-A53D-43D7-9FDD-DEA886FE1483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F22F437-A53D-43D7-9FDD-DEA886FE1483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F22F437-A53D-43D7-9FDD-DEA886FE1483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F22F437-A53D-43D7-9FDD-DEA886FE1483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
