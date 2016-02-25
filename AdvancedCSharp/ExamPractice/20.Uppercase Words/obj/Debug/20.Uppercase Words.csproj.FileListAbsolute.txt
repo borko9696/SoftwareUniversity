@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\20.Uppercase Words\bin\Debug\20.Uppercase Words.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\20.Uppercase Words\bin\Debug\20.Uppercase Words.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\20.Uppercase Words\bin\Debug\20.Uppercase Words.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\20.Uppercase Words\obj\Debug\20.Uppercase Words.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\20.Uppercase Words\obj\Debug\20.Uppercase Words.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\20.Uppercase Words\obj\Debug\20.Uppercase Words.pdb
