@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.LegendaryFarming\bin\Debug\04.LegendaryFarming.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.LegendaryFarming\bin\Debug\04.LegendaryFarming.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.LegendaryFarming\bin\Debug\04.LegendaryFarming.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.LegendaryFarming\obj\Debug\04.LegendaryFarming.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.LegendaryFarming\obj\Debug\04.LegendaryFarming.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.LegendaryFarming\obj\Debug\04.LegendaryFarming.pdb
