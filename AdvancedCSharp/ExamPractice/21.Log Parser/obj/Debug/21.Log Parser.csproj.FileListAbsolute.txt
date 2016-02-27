@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\21.Log Parser\bin\Debug\21.Log Parser.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\21.Log Parser\bin\Debug\21.Log Parser.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\21.Log Parser\bin\Debug\21.Log Parser.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\21.Log Parser\obj\Debug\21.Log Parser.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\21.Log Parser\obj\Debug\21.Log Parser.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\21.Log Parser\obj\Debug\21.Log Parser.pdb
