@@ -26,7 +26,7 @@
             {
                 var line = listEvents[i];
 
-                var regex =new Regex(@"#([A-Za-z]+):\s*@([A-Za-z]+)\s*(\d+):(\d+)");
+                var regex =new Regex(@"^#([A-Za-z]+):\s*@([A-Za-z]+)\s*(\d+)\s*:\s*(\d+)$");
                 var match = regex.Match(line);
                 if (match.Success)
                 {
