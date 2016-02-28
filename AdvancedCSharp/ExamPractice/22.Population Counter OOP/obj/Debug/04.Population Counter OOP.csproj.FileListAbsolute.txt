@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.Population Counter OOP\bin\Debug\04.Population Counter OOP.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.Population Counter OOP\bin\Debug\04.Population Counter OOP.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.Population Counter OOP\bin\Debug\04.Population Counter OOP.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.Population Counter OOP\obj\Debug\04.Population Counter OOP.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.Population Counter OOP\obj\Debug\04.Population Counter OOP.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.Population Counter OOP\obj\Debug\04.Population Counter OOP.pdb
