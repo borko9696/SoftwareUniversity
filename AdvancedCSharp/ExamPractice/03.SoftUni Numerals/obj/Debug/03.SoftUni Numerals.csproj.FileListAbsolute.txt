@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\03.SoftUni Numerals\bin\Debug\03.SoftUni Numerals.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\03.SoftUni Numerals\bin\Debug\03.SoftUni Numerals.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\03.SoftUni Numerals\bin\Debug\03.SoftUni Numerals.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\03.SoftUni Numerals\obj\Debug\03.SoftUni Numerals.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\03.SoftUni Numerals\obj\Debug\03.SoftUni Numerals.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\03.SoftUni Numerals\obj\Debug\03.SoftUni Numerals.pdb

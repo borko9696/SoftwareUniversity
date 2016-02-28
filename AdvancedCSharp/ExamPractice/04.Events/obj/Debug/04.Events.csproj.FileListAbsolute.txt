@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\04.Events\bin\Debug\04.Events.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\04.Events\bin\Debug\04.Events.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\04.Events\bin\Debug\04.Events.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\04.Events\obj\Debug\04.Events.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\04.Events\obj\Debug\04.Events.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\04.Events\obj\Debug\04.Events.pdb
