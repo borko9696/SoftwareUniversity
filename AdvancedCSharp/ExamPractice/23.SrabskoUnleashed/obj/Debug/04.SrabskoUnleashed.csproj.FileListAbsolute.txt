@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.SrabskoUnleashed\bin\Debug\04.SrabskoUnleashed.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.SrabskoUnleashed\bin\Debug\04.SrabskoUnleashed.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.SrabskoUnleashed\bin\Debug\04.SrabskoUnleashed.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.SrabskoUnleashed\obj\Debug\04.SrabskoUnleashed.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.SrabskoUnleashed\obj\Debug\04.SrabskoUnleashed.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Advanced - C#\ExamPreparation\04.SrabskoUnleashed\obj\Debug\04.SrabskoUnleashed.pdb

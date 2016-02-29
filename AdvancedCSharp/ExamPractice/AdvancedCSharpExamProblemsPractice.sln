@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Collect Resources", "01.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Population Counter OOP", "22.Population Counter OOP\22.Population Counter OOP.csproj", "{315B3237-FDDD-4328-A799-0E50971E6B8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.SrabskoUnleashed", "23.SrabskoUnleashed\23.SrabskoUnleashed.csproj", "{3A8F0555-4907-47F3-ADBA-440E543FD1AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{315B3237-FDDD-4328-A799-0E50971E6B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{315B3237-FDDD-4328-A799-0E50971E6B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{315B3237-FDDD-4328-A799-0E50971E6B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
