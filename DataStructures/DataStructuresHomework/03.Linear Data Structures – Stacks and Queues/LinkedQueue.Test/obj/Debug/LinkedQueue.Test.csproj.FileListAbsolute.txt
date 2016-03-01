@@ -1,0 +1,9 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\obj\Debug\LinkedQueue.Test.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\bin\Debug\LinkedQueue.Test.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\bin\Debug\LinkedQueue.Test.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\bin\Debug\Problem_7.Linked_Queue.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\bin\Debug\Problem_7.Linked_Queue.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\obj\Debug\LinkedQueue.Test.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\LinkedQueue.Test\obj\Debug\LinkedQueue.Test.pdb

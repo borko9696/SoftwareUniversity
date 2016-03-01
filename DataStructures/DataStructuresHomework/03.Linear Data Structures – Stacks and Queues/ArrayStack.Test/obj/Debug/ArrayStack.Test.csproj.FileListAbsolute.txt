@@ -1,0 +1,9 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\bin\Debug\ArrayStack.Test.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\bin\Debug\ArrayStack.Test.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\obj\Debug\ArrayStack.Test.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\obj\Debug\ArrayStack.Test.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\ArrayStack.Test\obj\Debug\ArrayStack.Test.pdb

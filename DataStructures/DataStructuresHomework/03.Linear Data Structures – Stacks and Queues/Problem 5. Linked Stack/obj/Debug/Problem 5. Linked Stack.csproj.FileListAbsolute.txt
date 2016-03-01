@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 5. Linked Stack\bin\Debug\Problem_5.Linked_Stack.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 5. Linked Stack\bin\Debug\Problem_5.Linked_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 5. Linked Stack\bin\Debug\Problem_5.Linked_Stack.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 5. Linked Stack\obj\Debug\Problem 5. Linked Stack.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 5. Linked Stack\obj\Debug\Problem_5.Linked_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 5. Linked Stack\obj\Debug\Problem_5.Linked_Stack.pdb

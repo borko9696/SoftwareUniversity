@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 3. Implement an Array-Based Stack\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 3. Implement an Array-Based Stack\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 3. Implement an Array-Based Stack\bin\Debug\Problem_3.Implement_an_Array_Based_Stack.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 3. Implement an Array-Based Stack\obj\Debug\Problem 3. Implement an Array-Based Stack.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 3. Implement an Array-Based Stack\obj\Debug\Problem_3.Implement_an_Array_Based_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 3. Implement an Array-Based Stack\obj\Debug\Problem_3.Implement_an_Array_Based_Stack.pdb

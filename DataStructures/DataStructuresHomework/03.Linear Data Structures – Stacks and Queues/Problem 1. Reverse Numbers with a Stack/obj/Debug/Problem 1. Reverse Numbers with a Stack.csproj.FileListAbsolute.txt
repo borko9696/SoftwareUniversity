@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 1. Reverse Numbers with a Stack\bin\Debug\Problem_1.Reverse_Numbers_with_a_Stack.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 1. Reverse Numbers with a Stack\bin\Debug\Problem_1.Reverse_Numbers_with_a_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 1. Reverse Numbers with a Stack\bin\Debug\Problem_1.Reverse_Numbers_with_a_Stack.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem 1. Reverse Numbers with a Stack.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem_1.Reverse_Numbers_with_a_Stack.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Linear Data Structures – Stacks and Queues\Problem 1. Reverse Numbers with a Stack\obj\Debug\Problem_1.Reverse_Numbers_with_a_Stack.pdb
