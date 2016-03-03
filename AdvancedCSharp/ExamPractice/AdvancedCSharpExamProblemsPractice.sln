@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Population Counter OOP",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.SrabskoUnleashed", "23.SrabskoUnleashed\23.SrabskoUnleashed.csproj", "{3A8F0555-4907-47F3-ADBA-440E543FD1AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchCollectionExercise", "MatchCollectionExercise\MatchCollectionExercise.csproj", "{AFF681E7-E90E-4810-96AD-38C6E19EE9DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF681E7-E90E-4810-96AD-38C6E19EE9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF681E7-E90E-4810-96AD-38C6E19EE9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF681E7-E90E-4810-96AD-38C6E19EE9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF681E7-E90E-4810-96AD-38C6E19EE9DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
