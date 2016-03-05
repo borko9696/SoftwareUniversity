@@ -55,7 +55,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Population Counter OOP",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.SrabskoUnleashed", "23.SrabskoUnleashed\23.SrabskoUnleashed.csproj", "{3A8F0555-4907-47F3-ADBA-440E543FD1AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.Vladko Notebook", "24.Vladko Notebook\24.Vladko Notebook.csproj", "{681AFFF9-4FB8-4852-B7EA-BFFDFABDD00B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24 .PIN Validation", "24.PIN Validation\24 .PIN Validation.csproj", "{F43D7390-A55B-4F5C-8327-C6CBCA4B2251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,10 +167,10 @@ Global
 		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8F0555-4907-47F3-ADBA-440E543FD1AF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{681AFFF9-4FB8-4852-B7EA-BFFDFABDD00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{681AFFF9-4FB8-4852-B7EA-BFFDFABDD00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{681AFFF9-4FB8-4852-B7EA-BFFDFABDD00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{681AFFF9-4FB8-4852-B7EA-BFFDFABDD00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43D7390-A55B-4F5C-8327-C6CBCA4B2251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43D7390-A55B-4F5C-8327-C6CBCA4B2251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43D7390-A55B-4F5C-8327-C6CBCA4B2251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43D7390-A55B-4F5C-8327-C6CBCA4B2251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

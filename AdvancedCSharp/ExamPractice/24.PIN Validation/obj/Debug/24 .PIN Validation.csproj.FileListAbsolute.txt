@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\24.PIN Validation\bin\Debug\24.PIN_Validation.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\24.PIN Validation\bin\Debug\24.PIN_Validation.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\24.PIN Validation\bin\Debug\24.PIN_Validation.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\24.PIN Validation\obj\Debug\24 .PIN Validation.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\24.PIN Validation\obj\Debug\24.PIN_Validation.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\24.PIN Validation\obj\Debug\24.PIN_Validation.pdb
