@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\25.Chat Logger\bin\Debug\25.Chat Logger.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\25.Chat Logger\bin\Debug\25.Chat Logger.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\25.Chat Logger\bin\Debug\25.Chat Logger.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\25.Chat Logger\obj\Debug\25.Chat Logger.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\25.Chat Logger\obj\Debug\25.Chat Logger.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\AdvancedCSharp\ExamPractice\25.Chat Logger\obj\Debug\25.Chat Logger.pdb
