@@ -3,6 +3,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.IO;
 
+using Escape_from_Labyrinth;
+
 [TestClass]
 public class UnitTestsEscapeFromLabyrinth
 {
