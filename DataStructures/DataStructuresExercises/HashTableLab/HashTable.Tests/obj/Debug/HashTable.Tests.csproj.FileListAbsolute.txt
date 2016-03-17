@@ -1,0 +1,9 @@
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\obj\Debug\HashTable.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\bin\Debug\HashTable.Tests.dll
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\bin\Debug\HashTable.Tests.pdb
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\bin\Debug\HashTable.exe
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\bin\Debug\HashTable.pdb
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\obj\Debug\HashTable.Tests.dll
+C:\Users\Borko\Desktop\HashTableLab\HashTable.Tests\obj\Debug\HashTable.Tests.pdb
