@@ -1,0 +1,8 @@
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\bin\Debug\Shopping Center.exe.config
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\bin\Debug\Shopping Center.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\bin\Debug\Shopping Center.pdb
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\obj\Debug\Shopping Center.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\obj\Debug\Shopping Center.exe
+C:\Users\Borko\Desktop\Bo\SoftUni\Data Structures\Shopping Center\Shopping Center\obj\Debug\Shopping Center.pdb
