@@ -1,0 +1,8 @@
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\bin\Debug\BunnyWars.Core.exe.config
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\bin\Debug\BunnyWars.Core.exe
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\bin\Debug\BunnyWars.Core.pdb
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\obj\Debug\BunnyWars.Core.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\obj\Debug\BunnyWars.Core.exe
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Core\obj\Debug\BunnyWars.Core.pdb

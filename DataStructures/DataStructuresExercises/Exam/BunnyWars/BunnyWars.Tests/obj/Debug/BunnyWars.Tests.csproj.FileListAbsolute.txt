@@ -1,0 +1,9 @@
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Tests.dll
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Tests.pdb
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.exe
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\BunnyWars.Core.pdb
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.dll
+C:\Users\Borko\Desktop\Exam\Problem-2-Bunny-Wars\C#-Skeleton\BunnyWars.Tests\obj\Debug\BunnyWars.Tests.pdb
