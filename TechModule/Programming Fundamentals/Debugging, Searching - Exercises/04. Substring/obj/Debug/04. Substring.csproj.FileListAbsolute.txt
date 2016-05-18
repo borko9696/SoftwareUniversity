@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\04. Substring\bin\Debug\_04.Substring.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\04. Substring\bin\Debug\_04.Substring.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\04. Substring\bin\Debug\_04.Substring.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\04. Substring\obj\Debug\04. Substring.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\04. Substring\obj\Debug\_04.Substring.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\04. Substring\obj\Debug\_04.Substring.pdb
