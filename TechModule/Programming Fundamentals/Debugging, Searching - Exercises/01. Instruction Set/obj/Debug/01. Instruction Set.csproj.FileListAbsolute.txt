@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\01. Instruction Set\bin\Debug\_01.Instruction_Set.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\01. Instruction Set\bin\Debug\_01.Instruction_Set.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\01. Instruction Set\bin\Debug\_01.Instruction_Set.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\01. Instruction Set\obj\Debug\01. Instruction Set.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\01. Instruction Set\obj\Debug\_01.Instruction_Set.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\01. Instruction Set\obj\Debug\_01.Instruction_Set.pdb

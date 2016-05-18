@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\03. Array Test\bin\Debug\_03.Array_Test.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\03. Array Test\bin\Debug\_03.Array_Test.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\03. Array Test\bin\Debug\_03.Array_Test.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\03. Array Test\obj\Debug\_03.Array_Test.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging, Searching - Exercises\03. Array Test\obj\Debug\_03.Array_Test.pdb
