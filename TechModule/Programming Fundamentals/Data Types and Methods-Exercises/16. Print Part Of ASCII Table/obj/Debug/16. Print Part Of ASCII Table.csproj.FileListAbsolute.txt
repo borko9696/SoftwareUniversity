@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\16. Print Part Of ASCII Table\bin\Debug\_16.Print_Part_Of_ASCII_Table.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\16. Print Part Of ASCII Table\obj\Debug\_16.Print_Part_Of_ASCII_Table.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\16. Print Part Of ASCII Table\obj\Debug\_16.Print_Part_Of_ASCII_Table.pdb

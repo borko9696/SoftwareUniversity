@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\21. Numbers In Reversed Order\bin\Debug\_21.Numbers_In_Reversed_Order.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\21. Numbers In Reversed Order\obj\Debug\_21.Numbers_In_Reversed_Order.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\21. Numbers In Reversed Order\obj\Debug\_21.Numbers_In_Reversed_Order.pdb

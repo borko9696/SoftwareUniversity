@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\19. Max Method\bin\Debug\_19.Max_Method.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\19. Max Method\bin\Debug\_19.Max_Method.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\19. Max Method\bin\Debug\_19.Max_Method.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\19. Max Method\obj\Debug\_19.Max_Method.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\19. Max Method\obj\Debug\_19.Max_Method.pdb
