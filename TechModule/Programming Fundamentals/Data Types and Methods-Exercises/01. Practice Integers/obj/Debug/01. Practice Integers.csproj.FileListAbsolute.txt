@@ -1,0 +1,6 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\01. Practice Integers\obj\Debug\01. Practice Integers.csprojResolveAssemblyReference.cache
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.pdb

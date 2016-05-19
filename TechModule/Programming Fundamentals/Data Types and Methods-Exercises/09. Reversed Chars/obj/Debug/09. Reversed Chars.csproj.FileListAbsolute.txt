@@ -1,0 +1,5 @@
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\09. Reversed Chars\bin\Debug\_09.Reversed_Chars.exe.config
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\09. Reversed Chars\bin\Debug\_09.Reversed_Chars.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\09. Reversed Chars\bin\Debug\_09.Reversed_Chars.pdb
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\09. Reversed Chars\obj\Debug\_09.Reversed_Chars.exe
+C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\09. Reversed Chars\obj\Debug\_09.Reversed_Chars.pdb
