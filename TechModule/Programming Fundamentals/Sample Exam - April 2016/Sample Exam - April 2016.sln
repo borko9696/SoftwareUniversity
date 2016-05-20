@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Nacepin", "01. Nacepin\01. Nacepin.csproj", "{BE694AA8-6EE9-4BE4-A849-F426DE07CD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Hogwarts Sorting", "02. Hogwarts Sorting\02. Hogwarts Sorting.csproj", "{ECE13C9A-F981-4572-846A-3388BE6AB1A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Dress Pattern", "03. Dress Pattern\03. Dress Pattern.csproj", "{956CA183-68D9-466D-9C0A-DFA987DAE4B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE694AA8-6EE9-4BE4-A849-F426DE07CD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE694AA8-6EE9-4BE4-A849-F426DE07CD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE694AA8-6EE9-4BE4-A849-F426DE07CD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE694AA8-6EE9-4BE4-A849-F426DE07CD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE13C9A-F981-4572-846A-3388BE6AB1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE13C9A-F981-4572-846A-3388BE6AB1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE13C9A-F981-4572-846A-3388BE6AB1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE13C9A-F981-4572-846A-3388BE6AB1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
