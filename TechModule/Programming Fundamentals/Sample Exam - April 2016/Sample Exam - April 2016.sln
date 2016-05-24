@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Hogwarts Sorting", "02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Dress Pattern", "03. Dress Pattern\03. Dress Pattern.csproj", "{956CA183-68D9-466D-9C0A-DFA987DAE4B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Vehicle Park", "04. Vehicle Park\04. Vehicle Park.csproj", "{651133E0-BF3D-48A1-BD3A-50B9378F1A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Blur Filter", "05. Blur Filter\05. Blur Filter.csproj", "{A49F1FEF-CCBE-4513-B9FC-145020189AEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{956CA183-68D9-466D-9C0A-DFA987DAE4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651133E0-BF3D-48A1-BD3A-50B9378F1A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651133E0-BF3D-48A1-BD3A-50B9378F1A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651133E0-BF3D-48A1-BD3A-50B9378F1A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651133E0-BF3D-48A1-BD3A-50B9378F1A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49F1FEF-CCBE-4513-B9FC-145020189AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49F1FEF-CCBE-4513-B9FC-145020189AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49F1FEF-CCBE-4513-B9FC-145020189AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49F1FEF-CCBE-4513-B9FC-145020189AEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

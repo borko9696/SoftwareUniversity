@@ -23,7 +23,8 @@ namespace _03.Dress_Pattern
                 stars += 3;
             }
 
-            Console.WriteLine(".{0}..{0}.", new string('*',12*n-2));
+            Console.WriteLine(".{0}..{0}.", new string('*', 6 * n - 1));
+
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(".{0}.", new string('*', 12 * n));
