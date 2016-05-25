@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_2.Game_of_Names
+﻿namespace Problem_2.Game_of_Names
 {
+    #region
+
+    using System;
+
+    #endregion
+
     class GameOfNames
     {
         static void Main(string[] args)
@@ -19,7 +19,7 @@ namespace Problem_2.Game_of_Names
             {
                 string name = Console.ReadLine();
                 int score = int.Parse(Console.ReadLine());
-                
+
                 int sum = score;
 
                 for (int j = 0; j < name.Length; j++)
@@ -40,7 +40,7 @@ namespace Problem_2.Game_of_Names
                     winner = name;
                 }
             }
-            
+
             Console.WriteLine("The winner is {0} - {1} points", winner, maxScore);
         }
     }

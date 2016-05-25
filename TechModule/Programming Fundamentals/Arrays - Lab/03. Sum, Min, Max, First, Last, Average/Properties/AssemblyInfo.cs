@@ -8,11 +8,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Problem 2. Game of Names")]
+[assembly: AssemblyTitle("03. Sum, Min, Max, First, Last, Average")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Problem 2. Game of Names")]
+[assembly: AssemblyProduct("03. Sum, Min, Max, First, Last, Average")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +23,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e0ea7484-5b38-49da-8cf2-486e5c34d792")]
+[assembly: Guid("40181691-06f2-4304-8bb2-a0f9be7ae253")]
 
 // Version information for an assembly consists of the following four values:
 //      Major Version

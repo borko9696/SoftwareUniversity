@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_1.Sweet_Dessert
+﻿namespace Problem_1.Sweet_Dessert
 {
+    #region
+
+    using System;
+
+    #endregion
+
     class SweetDessert
     {
         static void Main(string[] args)
@@ -21,11 +21,13 @@ namespace Problem_1.Sweet_Dessert
 
             if (moneyNeeded <= money)
             {
-                Console.WriteLine("Ivancho has enough money - it would cost {0:f2}lv.",moneyNeeded);
+                Console.WriteLine("Ivancho has enough money - it would cost {0:f2}lv.", moneyNeeded);
             }
             else
             {
-                Console.WriteLine("Ivancho will have to withdraw money - he will need {0:f2}lv more.", moneyNeeded - money);
+                Console.WriteLine(
+                    "Ivancho will have to withdraw money - he will need {0:f2}lv more.", 
+                    moneyNeeded - money);
             }
         }
     }

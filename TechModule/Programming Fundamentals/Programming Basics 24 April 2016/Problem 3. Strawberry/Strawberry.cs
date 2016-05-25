@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_3.Strawberry
+﻿namespace Problem_3.Strawberry
 {
+    #region
+
+    using System;
+
+    #endregion
+
     class Strawberry
     {
         static void Main(string[] args)
@@ -14,24 +14,24 @@ namespace Problem_3.Strawberry
 
             int outsideLines = 0;
             int inSideLines = n;
-            for (int i = 0; i < (n-1)/2; i++)
+            for (int i = 0; i < (n - 1) / 2; i++)
             {
-                Console.WriteLine("{0}\\{1}|{1}/{0}",new string('-' ,outsideLines),new string('-',inSideLines));
+                Console.WriteLine("{0}\\{1}|{1}/{0}", new string('-', outsideLines), new string('-', inSideLines));
                 outsideLines += 2;
                 inSideLines -= 2;
             }
 
             outsideLines = n;
-            inSideLines = 1; 
-            for (int i = 0; i < (n+1)/2; i++)
+            inSideLines = 1;
+            for (int i = 0; i < (n + 1) / 2; i++)
             {
-                Console.WriteLine("{0}#{1}#{0}",new string('-',outsideLines), new string('.', inSideLines));
+                Console.WriteLine("{0}#{1}#{0}", new string('-', outsideLines), new string('.', inSideLines));
                 outsideLines -= 2;
                 inSideLines += 4;
             }
 
             outsideLines = 0;
-            inSideLines = n * 2 + 1;
+            inSideLines = (n * 2) + 1;
 
             for (int i = 0; i < n + 1; i++)
             {

@@ -8,11 +8,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Problem 2. Game of Names")]
+[assembly: AssemblyTitle("07. Sum Arrays")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Problem 2. Game of Names")]
+[assembly: AssemblyProduct("07. Sum Arrays")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +23,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e0ea7484-5b38-49da-8cf2-486e5c34d792")]
+[assembly: Guid("2edf2999-4506-4f17-abaf-509c4bf4b8d2")]
 
 // Version information for an assembly consists of the following four values:
 //      Major Version

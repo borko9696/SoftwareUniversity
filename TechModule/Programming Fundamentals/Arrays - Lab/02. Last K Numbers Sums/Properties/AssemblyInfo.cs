@@ -8,11 +8,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Problem 2. Game of Names")]
+[assembly: AssemblyTitle("02. Last K Numbers Sums")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Problem 2. Game of Names")]
+[assembly: AssemblyProduct("02. Last K Numbers Sums")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +23,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e0ea7484-5b38-49da-8cf2-486e5c34d792")]
+[assembly: Guid("d4430b00-38f9-40bc-83f8-a39ce855abf2")]
 
 // Version information for an assembly consists of the following four values:
 //      Major Version
