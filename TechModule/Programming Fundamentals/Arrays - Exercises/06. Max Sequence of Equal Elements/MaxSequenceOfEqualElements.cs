@@ -1,11 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _06.Max_Sequence_of_Equal_Elements
+﻿namespace _06.Max_Sequence_of_Equal_Elements
 {
+    #region
+
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    #endregion
+
     class MaxSequenceOfEqualElements
     {
         static void Main(string[] args)
@@ -38,7 +40,7 @@ namespace _06.Max_Sequence_of_Equal_Elements
                 }
             }
 
-            Console.WriteLine(string.Join(" ",result));
+            Console.WriteLine(string.Join(" ", result));
         }
     }
 }

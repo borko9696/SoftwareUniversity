@@ -1,11 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _10.Pairs_by_Difference
+﻿namespace _10.Pairs_by_Difference
 {
+    #region
+
+    using System;
+    using System.Linq;
+
+    #endregion
+
     class PairsByDifference
     {
         static void Main(string[] args)
