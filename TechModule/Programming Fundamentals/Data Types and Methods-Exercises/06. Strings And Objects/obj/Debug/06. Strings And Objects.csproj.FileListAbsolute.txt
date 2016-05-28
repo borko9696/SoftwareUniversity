@@ -1,5 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

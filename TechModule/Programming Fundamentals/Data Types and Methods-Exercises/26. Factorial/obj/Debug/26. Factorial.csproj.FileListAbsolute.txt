@@ -1,6 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\26. Factorial\bin\Debug\_26.Factorial.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\26. Factorial\bin\Debug\_26.Factorial.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\26. Factorial\bin\Debug\_26.Factorial.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\26. Factorial\obj\Debug\26. Factorial.csprojResolveAssemblyReference.cache
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\26. Factorial\obj\Debug\_26.Factorial.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\26. Factorial\obj\Debug\_26.Factorial.pdb

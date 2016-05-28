@@ -1,6 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging Searching Lab\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging Searching Lab\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging Searching Lab\Weekends between Two Dates\bin\Debug\Weekends between Two Dates.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging Searching Lab\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.csprojResolveAssemblyReference.cache
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging Searching Lab\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Debugging Searching Lab\Weekends between Two Dates\obj\Debug\Weekends between Two Dates.pdb

@@ -1,5 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\22. Fibonacci Numbers\bin\Debug\_22.Fibonacci_Numbers.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\22. Fibonacci Numbers\obj\Debug\_22.Fibonacci_Numbers.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\22. Fibonacci Numbers\obj\Debug\_22.Fibonacci_Numbers.pdb

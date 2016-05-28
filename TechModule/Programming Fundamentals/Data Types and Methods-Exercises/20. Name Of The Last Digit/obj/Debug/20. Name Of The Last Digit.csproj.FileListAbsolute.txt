@@ -1,5 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\20. Name Of The Last Digit\bin\Debug\_20.Name_Of_The_Last_Digit.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\20. Name Of The Last Digit\bin\Debug\_20.Name_Of_The_Last_Digit.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\20. Name Of The Last Digit\bin\Debug\_20.Name_Of_The_Last_Digit.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\20. Name Of The Last Digit\obj\Debug\_20.Name_Of_The_Last_Digit.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\20. Name Of The Last Digit\obj\Debug\_20.Name_Of_The_Last_Digit.pdb

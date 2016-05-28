@@ -1,6 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods - Lab\02. Circle Area\bin\Debug\_02.Circle_Area.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods - Lab\02. Circle Area\bin\Debug\_02.Circle_Area.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods - Lab\02. Circle Area\bin\Debug\_02.Circle_Area.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods - Lab\02. Circle Area\obj\Debug\02. Circle Area.csprojResolveAssemblyReference.cache
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods - Lab\02. Circle Area\obj\Debug\_02.Circle_Area.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods - Lab\02. Circle Area\obj\Debug\_02.Circle_Area.pdb

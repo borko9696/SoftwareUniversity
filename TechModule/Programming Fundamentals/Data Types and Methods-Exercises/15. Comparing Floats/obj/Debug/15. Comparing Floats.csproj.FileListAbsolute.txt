@@ -1,5 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\15. Comparing Floats\bin\Debug\_15.Comparing_Floats.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\15. Comparing Floats\bin\Debug\_15.Comparing_Floats.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\15. Comparing Floats\bin\Debug\_15.Comparing_Floats.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\15. Comparing Floats\obj\Debug\_15.Comparing_Floats.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\15. Comparing Floats\obj\Debug\_15.Comparing_Floats.pdb

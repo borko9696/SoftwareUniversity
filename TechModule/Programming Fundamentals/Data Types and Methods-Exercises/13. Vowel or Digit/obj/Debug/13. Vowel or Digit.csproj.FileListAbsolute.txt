@@ -1,5 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\13. Vowel or Digit\bin\Debug\_13.Vowel_or_Digit.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\13. Vowel or Digit\obj\Debug\_13.Vowel_or_Digit.pdb

@@ -1,6 +1,0 @@
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe.config
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.pdb
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\08. Employee Data\obj\Debug\08. Employee Data.csprojResolveAssemblyReference.cache
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.exe
-C:\Users\Borko\Desktop\SoftwareUniversity\TechModule\Programming Fundamentals\Data Types and Methods-Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.pdb
