@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Game of Names", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Strawberry", "Problem 3. Strawberry\Problem 3. Strawberry.csproj", "{46B0F44F-F3AF-47AA-A391-19B09A7B00A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4.Array Modifier", "Problem 4.Array Modifier\Problem 4.Array Modifier.csproj", "{196566F6-4EC7-487A-978A-03AB14EF5B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multi Targeted Cell", "05. Multi Targeted Cell\05. Multi Targeted Cell.csproj", "{58DDEF54-F4A7-446E-8938-40EE2135A96D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{46B0F44F-F3AF-47AA-A391-19B09A7B00A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46B0F44F-F3AF-47AA-A391-19B09A7B00A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46B0F44F-F3AF-47AA-A391-19B09A7B00A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196566F6-4EC7-487A-978A-03AB14EF5B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196566F6-4EC7-487A-978A-03AB14EF5B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196566F6-4EC7-487A-978A-03AB14EF5B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196566F6-4EC7-487A-978A-03AB14EF5B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DDEF54-F4A7-446E-8938-40EE2135A96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DDEF54-F4A7-446E-8938-40EE2135A96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DDEF54-F4A7-446E-8938-40EE2135A96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DDEF54-F4A7-446E-8938-40EE2135A96D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
