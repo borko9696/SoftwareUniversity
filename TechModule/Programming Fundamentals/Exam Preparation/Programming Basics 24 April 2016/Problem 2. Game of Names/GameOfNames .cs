@@ -12,7 +12,7 @@
         {
             int lines = int.Parse(Console.ReadLine());
 
-            int maxScore = 0;
+            int maxScore = int.MinValue;
             string winner = string.Empty;
 
             for (int i = 0; i < lines; i++)

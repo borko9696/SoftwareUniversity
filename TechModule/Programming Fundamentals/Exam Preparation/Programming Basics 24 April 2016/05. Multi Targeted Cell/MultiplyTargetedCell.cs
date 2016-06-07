@@ -1,11 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _05.Multi_Targeted_Cell
+﻿namespace _05.Multi_Targeted_Cell
 {
+    #region
+
+    using System;
+    using System.Linq;
+
+    #endregion
+
     class MultiplyTargetedCell
     {
         static void Main(string[] args)
@@ -70,8 +71,9 @@ namespace _05.Multi_Targeted_Cell
             {
                 for (int j = 0; j < col; j++)
                 {
-                    Console.Write(matrix[i,j]+" ");
+                    Console.Write(matrix[i, j] + " ");
                 }
+
                 Console.WriteLine();
             }
         }

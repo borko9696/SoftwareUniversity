@@ -1,13 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Problem_4.Array_Modifier
+﻿namespace Problem_4.Array_Modifier
 {
+    #region
+
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    #endregion
+
     public class ArrayModifier
     {
+        private static long[] Decrease(long[] numbers)
+        {
+            var array = numbers.Select(x => x - 1).ToArray();
+            return array;
+        }
+
         static void Main(string[] args)
         {
             var numbers = Console.ReadLine().Split().Select(long.Parse).ToArray();
@@ -38,12 +46,6 @@ namespace Problem_4.Array_Modifier
             }
 
             Console.WriteLine(string.Join(", ", numbers));
-        }
-
-        private static long[] Decrease(long[] numbers)
-        {
-            var array = numbers.Select(x => x - 1).ToArray();
-            return array;
         }
 
         private static void Multiply(long[] numbers, long firstIndex, long secondIndex)
