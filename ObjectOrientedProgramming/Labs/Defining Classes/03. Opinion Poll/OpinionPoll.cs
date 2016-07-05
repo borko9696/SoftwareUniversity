@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _03.Opinion_Poll
+{
+    class OpinionPoll
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            List<Person> persons = new List<Person>();
+            for (int i = 0; i < n; i++)
+            {
+                string[] input = Console.ReadLine().Split();
+                persons.Add(new Person(input[0],int.Parse(input[1])));
+            }
+
+            foreach (var person in persons.Where(x => x.age > 30).OrderBy(x => x.name))
+            {
+                Console.WriteLine("{0} - {1}",person.name,person.age);
+            }
+        }
+    }
+
+    class Person
+    {
+        public string name = String.Empty;
+
+        public int age = 0;
+
+        public Person(string name, int age)
+        {
+            this.name = name;
+            this.age = age;
+        }
+    }
+}
