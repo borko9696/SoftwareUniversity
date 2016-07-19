@@ -8,11 +8,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("05. Fubinacci")]
+[assembly: AssemblyTitle("06. Raw Data")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("05. Fubinacci")]
+[assembly: AssemblyProduct("06. Raw Data")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -23,7 +23,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("268b4122-dbeb-4698-abc1-71c8f09d96fa")]
+[assembly: Guid("ace681bf-ba09-4521-aa30-a180bd19f8ba")]
 
 // Version information for an assembly consists of the following four values:
 //      Major Version

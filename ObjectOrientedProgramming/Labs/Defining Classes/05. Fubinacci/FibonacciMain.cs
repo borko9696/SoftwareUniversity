@@ -26,8 +26,6 @@
             this.End = end;
         }
 
-        public int Start { get; set; }
-
         public int End { get; set; }
 
         public List<long> NumbersInRange
@@ -41,6 +39,8 @@
             {
             }
         }
+
+        public int Start { get; set; }
 
         private List<long> GetNumbersInRange(int start, int end)
         {

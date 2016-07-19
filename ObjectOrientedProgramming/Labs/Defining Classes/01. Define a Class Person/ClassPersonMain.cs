@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _01.Define_a_Class_Person
+﻿namespace _01.Define_a_Class_Person
 {
+    #region
+
+    using System;
     using System.Reflection;
+
+    #endregion
 
     class ClassPersonMain
     {
@@ -20,8 +19,8 @@ namespace _01.Define_a_Class_Person
 
     class Person
     {
-       public string name = String.Empty;
-
         public int age = 0;
+
+        public string name = string.Empty;
     }
 }

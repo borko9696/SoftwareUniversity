@@ -1,17 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _04.Company_Roster
+﻿namespace _04.Company_Roster
 {
+    #region
+
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    #endregion
+
     public class CompanyRoster
     {
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            Dictionary<string,List<Employee>> employees = new Dictionary<string, List<Employee>>();
+            Dictionary<string, List<Employee>> employees = new Dictionary<string, List<Employee>>();
             for (int i = 0; i < n; i++)
             {
                 string[] input = Console.ReadLine().Split();
@@ -29,7 +31,6 @@ namespace _04.Company_Roster
                         try
                         {
                             age = int.Parse(input[j]);
-
                         }
                         catch (Exception)
                         {
@@ -42,6 +43,7 @@ namespace _04.Company_Roster
                     {
                         employees[departmen] = new List<Employee>();
                     }
+
                     employees[departmen].Add(employee);
                 }
             }
@@ -58,25 +60,24 @@ namespace _04.Company_Roster
 
     class Employee
     {
-        public string name = string.Empty;
-
-        public decimal selary = 0m;
-
-        public string position = string.Empty;
+        public int age;
 
         public string department = string.Empty;
 
-        public string email = String.Empty;
+        public string email = string.Empty;
 
-        public int age = 0;
-        
+        public string name = string.Empty;
+
+        public string position = string.Empty;
+
+        public decimal selary;
 
         public Employee(
-            string name,
-            decimal selary,
-            string position,
-            string department,
-            string email = "n/a",
+            string name, 
+            decimal selary, 
+            string position, 
+            string department, 
+            string email = "n/a", 
             int age = -1)
         {
             this.name = name;

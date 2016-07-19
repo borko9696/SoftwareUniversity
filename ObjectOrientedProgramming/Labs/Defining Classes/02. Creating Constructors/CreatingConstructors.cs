@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _02.Creating_Constructors
+﻿namespace _02.Creating_Constructors
 {
+    #region
+
+    using System;
     using System.Reflection;
+
+    #endregion
 
     class CreatingConstructors
     {
@@ -28,20 +27,21 @@ namespace _02.Creating_Constructors
 
             Person basePerson = (Person)emptyCtor.Invoke(new object[] { });
             Person personWithAge = (Person)ageCtor.Invoke(new object[] { age });
-            Person personWithAgeAndName = swapped ? (Person)nameAgeCtor.Invoke(new object[] { age, name }) : (Person)nameAgeCtor.Invoke(new object[] { name, age });
+            Person personWithAgeAndName = swapped
+                                              ? (Person)nameAgeCtor.Invoke(new object[] { age, name })
+                                              : (Person)nameAgeCtor.Invoke(new object[] { name, age });
 
             Console.WriteLine("{0} {1}", basePerson.name, basePerson.age);
             Console.WriteLine("{0} {1}", personWithAge.name, personWithAge.age);
             Console.WriteLine("{0} {1}", personWithAgeAndName.name, personWithAgeAndName.age);
-
         }
     }
 
     public class Person
     {
-        public string name = String.Empty;
+        public int age;
 
-        public int age = 0;
+        public string name = string.Empty;
 
         public Person()
         {
