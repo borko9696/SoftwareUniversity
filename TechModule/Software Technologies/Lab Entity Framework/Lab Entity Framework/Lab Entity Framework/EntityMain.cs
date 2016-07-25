@@ -69,7 +69,16 @@
 
             // DeleteExsistingData();
 
-            ExecuteSQL();
+            //ExecuteSQL();
+
+            var db = new BlogDbContex();
+            var authors = db.Users.SelectMany(user => user.Posts, (user, post) => new { user.UserName, user.FullName });
+
+            foreach (var author in authors)
+            {
+                Console.WriteLine("Full Name: {0}",author.FullName);
+                Console.WriteLine("Username: {0}",author.UserName);
+            }
         }
 
         private static void ExecuteSQL()
